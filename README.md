@@ -1,3 +1,3 @@
 # EnePro
 
-(EnePro_logo_full.png)
+![](EnePro_logo_full.png)

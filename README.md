@@ -1,10 +1,10 @@
-# EnePro
+# EnePro v1.6
 
-![](EnePro_logo_full.png)
+![](EnePro_icon.png)
 
 First release: 2021-05-16
 
-Last update: 2021-05-17
+Last update: 2021-05-22
 
 Author: Zhe Wang
 

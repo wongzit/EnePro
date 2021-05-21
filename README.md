@@ -42,5 +42,5 @@ User can run *EnePro* with source code by execute: `python3 ./path_to_EnePro/Ene
 ### Executable files
 The executable files for macOS/Linux/Microsoft Windows are provided. Run *EnePro* by double click.
 
-## Functions
+## Functions & How to use
 Please check the user manual (EnePro_man_vx.pdf) for details.

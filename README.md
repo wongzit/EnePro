@@ -7,7 +7,7 @@ Energy profile generator.
 
 First release: 2015-03-08
 
-Last update: 2021-05-22
+Last update: 2021-05-29
 
 Author: Zhe Wang
 
@@ -15,7 +15,7 @@ ORCiD: [0000-0002-9996-586X](https://orcid.org/0000-0002-9996-586X)
 
 ## From Author
 The project *EnePro* is derived from my homework of programming, when I was a 2nd-year undergraduate student.
-The 1st version of *EnePro* was written by **C++**, and the functions were limitted, but that was my first program.
+The 1st version of *EnePro* was written by **C**, and the functions were limitted, but that was my first program.
 Recently, I re-wrote the *EnePro* with **Python**, added more functions, and it become more flexible.
 Hope you enjoy this program. If you have find any bugs, please let me know. Thanks:)
 

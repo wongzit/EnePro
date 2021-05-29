@@ -25,6 +25,9 @@ file and print energy profile to ChemDraw XML (.cdxml) file. User can do further
 With *EnePro*, user can easily draw accurate energy profile.
 
 ## Update history
+### v1.6.1 (2021-05-29)
+Minor bug fix.
+
 ### v1.6 (2021-05-22)
 1. Bug fix.
 2. Time stamp will be added in the .cdxml file name for avoiding data lose.

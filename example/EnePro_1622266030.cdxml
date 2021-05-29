@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE CDXML SYSTEM "http://www.cambridgesoft.com/xml/cdxml.dtd" >
+<CDXML
+ CreationProgram="ChemDraw 20.0.0.38"
+ Name="EnePro.cdxml"
+ BoundingBox="0 0 0 0"
+ WindowPosition="0 0"
+ WindowSize="0 0"
+ FractionalWidths="yes"
+ InterpretChemically="yes"
+ ShowAtomQuery="yes"
+ ShowAtomStereo="no"
+ ShowAtomEnhancedStereo="yes"
+ ShowAtomNumber="no"
+ ShowResidueID="no"
+ ShowBondQuery="yes"
+ ShowBondRxn="yes"
+ ShowBondStereo="no"
+ ShowTerminalCarbonLabels="no"
+ ShowNonTerminalCarbonLabels="no"
+ HideImplicitHydrogens="no"
+ LabelFont="21"
+ LabelSize="10"
+ LabelFace="96"
+ CaptionFont="21"
+ CaptionSize="10"
+ HashSpacing="2.50"
+ MarginWidth="1.60"
+ LineWidth="0.60"
+ BoldWidth="2"
+ BondLength="14.40"
+ BondSpacing="18"
+ ChainAngle="120"
+ LabelJustification="Auto"
+ CaptionJustification="Left"
+ AminoAcidTermini="HOH"
+ ShowSequenceTermini="yes"
+ ShowSequenceBonds="yes"
+ ShowSequenceUnlinkedBranches="no"
+ ResidueWrapCount="40"
+ ResidueBlockCount="10"
+ ResidueZigZag="yes"
+ NumberResidueBlocks="no"
+ PrintMargins="36 36 36 36"
+ MacPrintInfo="000300000048004800000000023B0331FFF4FFF40247033E0365057B03E0000200000048004800000000023B0331000100000064000000010001010100000001270F000100010000000000000000000000000002001901900000000000400000000000000000000100000000000000000000000000000000"
+ ChemPropName=""
+ ChemPropFormula="Chemical Formula: "
+ ChemPropExactMass="Exact Mass: "
+ ChemPropMolWt="Molecular Weight: "
+ ChemPropMOverZ="m/z: "
+ ChemPropAnalysis="Elemental Analysis: "
+ ChemPropBoilingPt="Boiling Point: "
+ ChemPropMeltingPt="Melting Point: "
+ ChemPropCritTemp="Critical Temp: "
+ ChemPropCritPres="Critical Pres: "
+ ChemPropCritVol="Critical Vol: "
+ ChemPropGibbs="Gibbs Energy: "
+ ChemPropLogP="Log P: "
+ ChemPropMR="MR: "
+ ChemPropHenry="Henry&apos;s Law: "
+ ChemPropEForm="Heat of Form: "
+ ChemProptPSA="tPSA: "
+ ChemPropID=""
+ ChemPropFragmentLabel=""
+ color="0"
+ bgcolor="1"
+ RxnAutonumberStart="1"
+ RxnAutonumberConditions="no"
+ RxnAutonumberStyle="Roman"
+ RxnAutonumberFormat="(#)"
+><colortable>
+<color r="1" g="1" b="1"/>
+<color r="0" g="0" b="0"/>
+<color r="1" g="0" b="0"/>
+<color r="1" g="1" b="0"/>
+<color r="0" g="1" b="0"/>
+<color r="0" g="1" b="1"/>
+<color r="0" g="0" b="1"/>
+<color r="1" g="0" b="1"/>
+<color r="0.0392" g="0.2196" b="0.3882"/>
+<color r="0.2314" g="0.5961" b="0.7294"/>
+<color r="0.9098" g="0.8510" b="0.0471"/>
+<color r="0.5274" g="0.8307" b="0.0253"/>
+<color r="0.8078" g="0" b="0.4431"/>
+<color r="0.5294" g="0.0353" b="0.3216"/>
+<color r="0.9922" g="0.5490" b="0.0902"/>
+<color r="0.9804" g="0.2078" b="0.0275"/>
+<color r="0.7255" g="0" b="0.1333"/>
+<color r="0.0471" g="0.3686" b="0.3020"/>
+<color r="0.0667" g="0.2980" b="0.3255"/>
+<color r="0.3804" g="0.8392" b="0.7922"/>
+<color r="0.2588" g="0.2745" b="0.2863"/>
+</colortable><fonttable>
+<font id="21" charset="x-mac-roman" name="Helvetica"/>
+</fonttable><page
+ id="999999999"
+ BoundingBox="0 0 769.89 523.28"
+ HeaderPosition="36"
+ FooterPosition="36"
+ PrintTrimMarks="yes"
+ HeightPages="1"
+ WidthPages="1"
+>
+<graphic
+ id="1000001"
+ BoundingBox="110 290.98 80 290.98"
+ Z="1000001"
+ color="18"
+ LineType="Bold"
+ GraphicType="Line"
+/>
+<graphic
+ id="1000002"
+ BoundingBox="160 150.0 130 150.0"
+ Z="1000002"
+ color="18"
+ LineType="Bold"
+ GraphicType="Line"
+/>
+<graphic
+ id="1000003"
+ BoundingBox="210 300.8 180 300.8"
+ Z="1000003"
+ color="18"
+ LineType="Bold"
+ GraphicType="Line"
+/>
+<graphic
+ id="1000003"
+ BoundingBox="110 290.98 80 290.98"
+ Z="1000003"
+ color="19"
+ LineType="Bold"
+ GraphicType="Line"
+/>
+<graphic
+ id="1000004"
+ BoundingBox="160 157.876 130 157.876"
+ Z="1000004"
+ color="19"
+ LineType="Bold"
+ GraphicType="Line"
+/>
+<graphic
+ id="1000005"
+ BoundingBox="210 350.0 180 350.0"
+ Z="1000005"
+ color="19"
+ LineType="Bold"
+ GraphicType="Line"
+/>
+<graphic
+ id="1000005"
+ BoundingBox="110 272.52 80 272.52"
+ Z="1000005"
+ color="3"
+ LineType="Bold"
+ GraphicType="Line"
+/>
+<graphic
+ id="1"
+ BoundingBox="130 150.0 110 290.98"
+ Z="1"
+ color="18"
+ LineType="Dashed"
+ GraphicType="Line"
+/>
+<graphic
+ id="3"
+ BoundingBox="180 300.8 160 150.0"
+ Z="3"
+ color="18"
+ LineType="Dashed"
+ GraphicType="Line"
+/>
+<graphic
+ id="2"
+ BoundingBox="130 157.876 110 290.98"
+ Z="2"
+ color="19"
+ LineType="Dashed"
+ GraphicType="Line"
+/>
+<graphic
+ id="4"
+ BoundingBox="180 350.0 160 157.876"
+ Z="4"
+ color="19"
+ LineType="Dashed"
+ GraphicType="Line"
+/>
+<t
+ id="2000000"
+ p="95.0 285.98"
+ BoundingBox="95.0 270.98 115.0 280.98"
+ Z="2000000"
+ color="18"
+ CaptionJustification="Center"
+ Justification="Center"
+><s font="21" size="10" color="18">0.00</s></t>
+<t
+ id="3000000"
+ p="95.0 302.98"
+ BoundingBox="95.0 270.98 115.0 280.98"
+ Z="3000000"
+ color="18"
+ CaptionJustification="Center"
+ Justification="Center"
+><s font="21" size="10" color="18" face="1">S-DR</s></t>
+<t
+ id="2000000"
+ p="145.0 145.0"
+ BoundingBox="145.0 130.0 165.0 140.0"
+ Z="2000002"
+ color="18"
+ CaptionJustification="Center"
+ Justification="Center"
+><s font="21" size="10" color="18">57.28</s></t>
+<t
+ id="3000000"
+ p="145.0 162.0"
+ BoundingBox="145.0 130.0 165.0 140.0"
+ Z="3000002"
+ color="18"
+ CaptionJustification="Center"
+ Justification="Center"
+><s font="21" size="10" color="18" face="1">TS3b</s></t>
+<t
+ id="2000000"
+ p="195.0 295.8"
+ BoundingBox="195.0 280.8 215.0 290.8"
+ Z="2000004"
+ color="18"
+ CaptionJustification="Center"
+ Justification="Center"
+><s font="21" size="10" color="18">-3.99</s></t>
+<t
+ id="3000000"
+ p="195.0 312.8"
+ BoundingBox="195.0 280.8 215.0 290.8"
+ Z="3000004"
+ color="18"
+ CaptionJustification="Center"
+ Justification="Center"
+><s font="21" size="10" color="18" face="1">CP3b</s></t>
+<t
+ id="2000001"
+ p="95.0 285.98"
+ BoundingBox="95.0 270.98 115.0 280.98"
+ Z="2000000"
+ color="19"
+ CaptionJustification="Center"
+ Justification="Center"
+><s font="21" size="10" color="19">0.00</s></t>
+<t
+ id="3000001"
+ p="95.0 302.98"
+ BoundingBox="95.0 270.98 115.0 280.98"
+ Z="3000000"
+ color="19"
+ CaptionJustification="Center"
+ Justification="Center"
+><s font="21" size="10" color="19" face="1">S-DR</s></t>
+<t
+ id="2000001"
+ p="145.0 152.876"
+ BoundingBox="145.0 137.876 165.0 147.876"
+ Z="2000002"
+ color="19"
+ CaptionJustification="Center"
+ Justification="Center"
+><s font="21" size="10" color="19">54.08</s></t>
+<t
+ id="3000001"
+ p="145.0 169.876"
+ BoundingBox="145.0 137.876 165.0 147.876"
+ Z="3000002"
+ color="19"
+ CaptionJustification="Center"
+ Justification="Center"
+><s font="21" size="10" color="19" face="1">TS3a</s></t>
+<t
+ id="2000001"
+ p="195.0 345.0"
+ BoundingBox="195.0 330.0 215.0 340.0"
+ Z="2000004"
+ color="19"
+ CaptionJustification="Center"
+ Justification="Center"
+><s font="21" size="10" color="19">-23.98</s></t>
+<t
+ id="3000001"
+ p="195.0 362.0"
+ BoundingBox="195.0 330.0 215.0 340.0"
+ Z="3000004"
+ color="19"
+ CaptionJustification="Center"
+ Justification="Center"
+><s font="21" size="10" color="19" face="1">CP3a</s></t>
+<t
+ id="2000002"
+ p="95.0 267.52"
+ BoundingBox="95.0 252.51999999999998 115.0 262.52"
+ Z="2000000"
+ color="3"
+ CaptionJustification="Center"
+ Justification="Center"
+><s font="21" size="10" color="3">7.50</s></t>
+<t
+ id="3000002"
+ p="95.0 284.52"
+ BoundingBox="95.0 252.51999999999998 115.0 262.52"
+ Z="3000000"
+ color="3"
+ CaptionJustification="Center"
+ Justification="Center"
+><s font="21" size="10" color="3" face="1">T-DR</s></t>
+<graphic
+ id="99999998"
+ BoundingBox="50 110 50 390"
+ Z="99999998"
+ color="0"
+ GraphicType="Line"
+/>
+<graphic
+ id="99999997"
+ BoundingBox="240 110 240 390"
+ Z="99999997"
+ color="0"
+ GraphicType="Line"
+/>
+<graphic
+ id="99999996"
+ BoundingBox="50 390 240 390"
+ Z="99999996"
+ color="0"
+ GraphicType="Line"
+/>
+<graphic
+ id="99999995"
+ BoundingBox="50 110 240 110"
+ Z="99999995"
+ color="0"
+ GraphicType="Line"
+/>
+<t
+ id="99999993"
+ p="13 250"
+ BoundingBox="15 100 25 400"
+ Z="99999993"
+ color="0"
+ CaptionJustification="Center"
+ Justification="Center"
+ RotationAngle="17694720"
+><s font="21" size="11" color="0">Relative Energy (kJ/mol)</s></t>
+<t
+ id="99999992"
+ p="145.0 410"
+ BoundingBox="700 400 30 420"
+ Z="99999992"
+ color="0"
+ CaptionJustification="Center"
+ Justification="Center"
+><s font="21" size="11" color="0">Reaction Coordinates</s></t>
+<graphic
+ id="5000000"
+ BoundingBox="55 350.049 50 350.049"
+ Z="5000000"
+ color="0"
+ GraphicType="Line"
+/>
+<t
+ id="6000000"
+ p="45 352.049"
+ BoundingBox="45 330.049 25 340.049"
+ Z="6000000"
+ color="0"
+ CaptionJustification="Right"
+ Justification="Right"
+><s font="21" size="10" color="0">-24.0</s></t>
+<graphic
+ id="5000001"
+ BoundingBox="55 300.086 50 300.086"
+ Z="5000001"
+ color="0"
+ GraphicType="Line"
+/>
+<t
+ id="6000001"
+ p="45 302.086"
+ BoundingBox="45 280.086 25 290.086"
+ Z="6000001"
+ color="0"
+ CaptionJustification="Right"
+ Justification="Right"
+><s font="21" size="10" color="0">-3.7</s></t>
+<graphic
+ id="5000002"
+ BoundingBox="55 249.877 50 249.877"
+ Z="5000002"
+ color="0"
+ GraphicType="Line"
+/>
+<t
+ id="6000002"
+ p="45 251.877"
+ BoundingBox="45 229.877 25 239.877"
+ Z="6000002"
+ color="0"
+ CaptionJustification="Right"
+ Justification="Right"
+><s font="21" size="10" color="0">16.7</s></t>
+<graphic
+ id="5000003"
+ BoundingBox="55 199.914 50 199.914"
+ Z="5000003"
+ color="0"
+ GraphicType="Line"
+/>
+<t
+ id="6000003"
+ p="45 201.914"
+ BoundingBox="45 179.914 25 189.914"
+ Z="6000003"
+ color="0"
+ CaptionJustification="Right"
+ Justification="Right"
+><s font="21" size="10" color="0">37.0</s></t>
+<graphic
+ id="5000004"
+ BoundingBox="55 149.951 50 149.951"
+ Z="5000004"
+ color="0"
+ GraphicType="Line"
+/>
+<t
+ id="6000004"
+ p="45 151.951"
+ BoundingBox="45 129.951 25 139.951"
+ Z="6000004"
+ color="0"
+ CaptionJustification="Right"
+ Justification="Right"
+><s font="21" size="10" color="0">57.3</s></t>
+</page></CDXML>

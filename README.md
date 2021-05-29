@@ -17,7 +17,7 @@ ORCiD: [0000-0002-9996-586X](https://orcid.org/0000-0002-9996-586X)
 The project *EnePro* is derived from my homework of programming, when I was a 2nd-year undergraduate student.
 The 1st version of *EnePro* was written by **C**, and the functions were limitted, but that was my first program.
 Recently, I re-wrote the *EnePro* with **Python**, added more functions, and it become more flexible.
-Hope you enjoy this program. If you have find any bugs, please let me know. Thanks:)
+Hope you enjoy this program. If you find any bugs, please let me know. Thanks:)
 
 ## Statement of need
 EnePro is a Python program for generate energy profile easily. EnePro reads input from Excel .xlsx

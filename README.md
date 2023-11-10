@@ -3,8 +3,6 @@
 
 Energy profile generator.
 
-**Homepage** https://www.wangzhe95.net/program-enepro
-
 First release: 2015-03-08
 
 Last update: 2021-05-29
